@@ -4,8 +4,8 @@
 
 Typical RFM segments may include:
 
--Champions: High recency, high frequency, and high monetary value.
--Loyal Customers: High recency, high frequency, but lower monetary value.
--Potential Loyalists: High recency, moderate frequency, and moderate monetary value.
--At-Risk Customers: Low recency, high frequency, and high monetary value.
--Lost Customers: Low recency, low frequency, and low monetary value.
+* Champions: High recency, high frequency, and high monetary value.
+* Loyal Customers: High recency, high frequency, but lower monetary value.
+* Potential Loyalists: High recency, moderate frequency, and moderate monetary value.
+* At-Risk Customers: Low recency, high frequency, and high monetary value.
+* Lost Customers: Low recency, low frequency, and low monetary value.
